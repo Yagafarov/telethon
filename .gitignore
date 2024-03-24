@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+.venv/
+*session
+*json
+bot.py
+env/
+dist/
+build/
+*.egg-info/
